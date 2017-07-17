@@ -1,0 +1,7 @@
+---- CHARGE_PIN Matches (6 in 2 files) ----
+Ap_peripheral_handling.c (f:\work\item\7650\programe\application\task_peripheral_handling\src):    gpio_init_io(CHARGE_PIN, GPIO_INPUT);
+Ap_peripheral_handling.c (f:\work\item\7650\programe\application\task_peripheral_handling\src):    gpio_set_port_attribute(CHARGE_PIN, ATTRIBUTE_LOW);
+Ap_peripheral_handling.c (f:\work\item\7650\programe\application\task_peripheral_handling\src):    gpio_write_io(CHARGE_PIN, DATA_HIGH);	//pull low иою╜
+Ap_peripheral_handling.c (f:\work\item\7650\programe\application\task_peripheral_handling\src):    if(gpio_read_io(CHARGE_PIN) == 0)
+Ap_peripheral_handling.c (f:\work\item\7650\programe\application\task_peripheral_handling\src):    pin_state = gpio_read_io(CHARGE_PIN);
+Customer.h (f:\work\item\7650\programe\project\turnkey_gpcv1248_cvr\inc):#define CHARGE_PIN	                        IO_D13

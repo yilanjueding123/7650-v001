@@ -1,0 +1,20 @@
+---- C_AUTO_DEL_FILE Matches (19 in 10 files) ----
+ap_setting_right_menu_active in ap_setting.c (application\task_state_handling\state_setting\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_setting_value_set_from_user_config in ap_setting.c (application\task_state_handling\state_setting\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_state_firmware_upgrade in ap_state_firmware_upgrade.c (application\task_state_handling\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service.c (application\task_storage_service\src) line 40 : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service_init in ap_storage_service.c (application\task_storage_service\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service.c (application\task_storage_service\src) line 90 : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service_file_del in ap_storage_service.c (application\task_storage_service\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service_storage_mount in ap_storage_service.c (application\task_storage_service\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_storage_service.h (application\task_storage_service\inc) line 12 : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_video_record_func_key_active in ap_video_record.c (application\task_state_handling\state_video_record\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_video_record_func_key_active in ap_video_record.c (application\task_state_handling\state_video_record\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+ap_video_record_cycle_reply_action in ap_video_record.c (application\task_state_handling\state_video_record\src) : #if C_AUTO_DEL_FILE == CUSTOM_OFF
+ap_video_record_cycle_reply_action in ap_video_record.c (application\task_state_handling\state_video_record\src) : #if 1//C_AUTO_DEL_FILE == CUSTOM_ON
+ap_video_record_reply_action in ap_video_record.c (application\task_state_handling\state_video_record\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+customer.h (project\turnkey_gpcv1248_cvr\inc) line 483 : #define C_AUTO_DEL_FILE					CUSTOM_ON
+state_video_record_entry in state_video_record.c (application\task_state_handling\state_video_record\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+task_storage_service_entry in task_storage_service.c (application\task_storage_service\src) : #if C_AUTO_DEL_FILE == CUSTOM_ON
+task_storage_service.h (application\task_storage_service\inc) line 11 : #if C_AUTO_DEL_FILE == CUSTOM_ON
+video_encode_stop in video_encoder.c (application\mini_dvr_api\src) : #if C_AUTO_DEL_FILE==CUSTOM_ON
